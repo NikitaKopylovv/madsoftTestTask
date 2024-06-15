@@ -1,0 +1,9 @@
+@import "../assets/base/reset.css";
+
+@import "./App.css";
+@import "../components/layout/TestComponent/TestComponent.css";
+@import "../components/layout/addQuestion/AddQuestionForm.css";
+@import "../components/layout/StartPage/StartPage.css";
+
+@import "../assets/components/button.css";
+@import "../components/layout/Answers/Answers.css";

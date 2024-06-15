@@ -1,0 +1,11 @@
+.form__add__question {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.form__add__question .form__add__question__variation {
+    display: flex;
+    gap: 10px;
+}

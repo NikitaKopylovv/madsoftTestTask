@@ -1,0 +1,23 @@
+.test__answers {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: flex-start;
+}
+
+.test__answers button {
+    margin-top: 10px;
+}
+
+.test__answers input[type="text"] {
+    border-radius: 5px;
+    padding: 5px 10px;
+    border: 1px solid #000;
+    outline: none;
+    transition: 0.2s;
+}
+
+.test__answers input[type="text"]:focus {
+    outline: 1px solid #abc929;
+    border: 1px solid #abc929;
+}
